@@ -1,4 +1,4 @@
-👋 Hey there, I'm Mohamed! I have always been interested in learning programming for years. I created this account back in 2022 when I was randomly learning some C++, Python, and JS thinking programming was coding only. I abandoned programming for 2 years then made a comeback on Feb 2024 and started taking CS50x and reached week 4 then stopped learning for about 7 months but after that, I started focusing on my goal and learning more seriously. Here I am after I have completed CS50x and moving to my next step!
+👋 Hey there, I'm Mohamed! I have always been interested in learning programming for years. I created this account back in 2022 when I was randomly learning some C++, Python, and JS thinking programming was coding only. After that, I have abandoned programming for 2 years then made a comeback on Feb 2024 and started taking CS50x and reached week 4 then stopped learning for about 7 months but after that, I started focusing on my goal and learning more seriously. Here I am after I have completed CS50x and moving to my next step!
 <!--
 **M-0S/M-0S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
